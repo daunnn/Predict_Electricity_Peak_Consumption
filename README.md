@@ -100,7 +100,7 @@ Each model’s accuracy was further validated through **5-fold cross-validation*
 | Random Forest        | 16.85 | 773.32   | 0.79        | 36.31  |
 | RNN                  | 31.71 | 2046.22  | 0.45        | 63.48  |
 
-<img (https://github.com/user-attachments/assets/ec0e348c-268a-41f2-a7b3-4abce6466001 width="500"/>
+<img src=https://github.com/user-attachments/assets/ec0e348c-268a-41f2-a7b3-4abce6466001 width="500"/>
 
 
 **Key Takeaways**
