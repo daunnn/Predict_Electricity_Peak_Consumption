@@ -61,14 +61,18 @@ To run the project:
 
 ## Exploratory Data Analysis (EDA)
 - **Heatmap of Data**
-    ![Heatmap](https://github.com/user-attachments/assets/8fb681e1-e80e-4aba-9fa6-f9aa70dd7fe1)
+  
+    <img src=https://github.com/user-attachments/assets/8fb681e1-e80e-4aba-9fa6-f9aa70dd7fe1 width="500"/>
+    
 - **Target Variable Analysis**
   - Peak Consumption Boxplot for Each Month
-    ![Boxplot by Month](https://github.com/user-attachments/assets/5452fdf1-50a2-43d5-8f8d-2c46382db138)
+  <img src=https://github.com/user-attachments/assets/5452fdf1-50a2-43d5-8f8d-2c46382db138 width="500"/>
+    
   - Peak Consumption Boxplot for Each Hour
-    ![Boxplot by Hour](https://github.com/user-attachments/assets/bc41a9f8-ba82-4a30-a4b5-86a95fc2b1bc)
+  <img src=https://github.com/user-attachments/assets/bc41a9f8-ba82-4a30-a4b5-86a95fc2b1bc width="500"/>
+    
   - Target Variable Distribution
-    ![Distribution](https://github.com/user-attachments/assets/3ed902c9-0565-459e-9b89-d43dfb5a014d)
+  <img src=(https://github.com/user-attachments/assets/3ed902c9-0565-459e-9b89-d43dfb5a014d) width="600"/>
 
 ## Results
 The project provides visualizations and predictive modeling results on electricity consumption trends. These insights help identify peak usage patterns and times.
