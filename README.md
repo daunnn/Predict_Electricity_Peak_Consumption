@@ -72,7 +72,7 @@ To run the project:
   <img src=https://github.com/user-attachments/assets/bc41a9f8-ba82-4a30-a4b5-86a95fc2b1bc width="500"/>
     
   - Target Variable Distribution
-  <img src=(https://github.com/user-attachments/assets/3ed902c9-0565-459e-9b89-d43dfb5a014d) width="600"/>
+  <img src=https://github.com/user-attachments/assets/3ed902c9-0565-459e-9b89-d43dfb5a014d width="600"/>
 
 ## Results
 The project provides visualizations and predictive modeling results on electricity consumption trends. These insights help identify peak usage patterns and times.
