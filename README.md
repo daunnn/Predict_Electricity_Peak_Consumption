@@ -75,23 +75,22 @@ To run the project:
   <img src=https://github.com/user-attachments/assets/3ed902c9-0565-459e-9b89-d43dfb5a014d width="600"/>
 
 ## Results
-The project provides visualizations and predictive modeling results on electricity consumption trends. These insights help identify peak usage patterns and times.
 
 ### Predictive Model
-This project evaluates three predictive models for comparative analysis:
+We evaluated the following predictive models to compare performance:
 - **Linear Regression**
 - **Random Forest**
 - **Recurrent Neural Network (RNN)** with 200 epochs
 
 ### Performance Measures
-The model performance was assessed using the following metrics:
+Model performance was evaluated using:
 - **MAPE (Mean Absolute Percentage Error)**
 - **MAE (Mean Absolute Error)**
 - **MSE (Mean Squared Error)**
 - **R-squared (Coefficient of Determination)**
 
 ### Cross-Validation
-The model accuracy was validated using **5-fold cross-validation**.
+Each model’s accuracy was further validated through **5-fold cross-validation**.
 
 **Model Performance Comparison**
 
@@ -102,5 +101,8 @@ The model accuracy was validated using **5-fold cross-validation**.
 | RNN (epoch: 200)     | 31.71 | 2046.22  | 0.45        | 63.48  |
 
 **Key Takeaways**
-- Implementing predictive models can help reduce peak power occurrences, leading to lower electricity charges and production costs.
-- Continuous monitoring of key variables ensures sustainable power optimization in manufacturing processes.
+- Using predictive models, particularly Random Forest, significantly reduces prediction errors and better captures peak usage trends.
+- Effective forecasting can help mitigate peak power occurrences, lowering electricity costs and improving resource efficiency.
+- Continuous monitoring and model refinement will support sustainable power optimization in manufacturing processes. 
+
+For visualizations and in-depth analysis, including comparisons across different models and prediction metrics, please see the `Project.ipynb` notebook.
