@@ -98,7 +98,10 @@ Each model’s accuracy was further validated through **5-fold cross-validation*
 |----------------------|-------|----------|-------------|--------|
 | Linear Regression    | 33.97 | 1823.02  | 0.52        | 73.70  |
 | Random Forest        | 16.85 | 773.32   | 0.79        | 36.31  |
-| RNN (epoch: 200)     | 31.71 | 2046.22  | 0.45        | 63.48  |
+| RNN                  | 31.71 | 2046.22  | 0.45        | 63.48  |
+
+![image](https://github.com/user-attachments/assets/ec0e348c-268a-41f2-a7b3-4abce6466001)
+
 
 **Key Takeaways**
 - Using predictive models, particularly Random Forest, significantly reduces prediction errors and better captures peak usage trends.
